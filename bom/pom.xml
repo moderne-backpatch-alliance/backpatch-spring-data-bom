@@ -129,7 +129,7 @@
 			<dependency>
 				<groupId>org.springframework.data</groupId>
 				<artifactId>spring-data-mongodb</artifactId>
-				<version>3.4.18.1-backpatch-00001</version>
+				<version>3.4.18.1-backpatch-00006</version>
 			</dependency>
 
 			<!-- Spring Data Neo4j -->
